@@ -19,7 +19,7 @@ This project demonstrates the basic use of digital output pins on an Arduino boa
   
 
 ## Circuit Diagram
-![Circuit Diagram](blinking_led_photo_1.jpg)
+![Circuit Diagram](BLINKING LED PHOTO 1.jpg)
 
 ## How It Works
 1. The LED pin is set as an OUTPUT using `pinMode()`.
