@@ -29,7 +29,7 @@ This project demonstrates the basic use of digital output pins on an Arduino boa
 5. This process repeats continuously inside the `loop()` function.
 
 ## Code
-The Arduino sketch for this project is located in the [code/directory](code/).
+The Arduino sketch for this project is located in the [code/directory](code/project_1_for_led_blinking_project_on_23rd_june_2025.ino).
 
 ## Demo Video
 A demonstration video showing the working project is included in this repository.
