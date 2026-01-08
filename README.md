@@ -3,10 +3,6 @@
 ## Overview
 This project demonstrates the basic use of digital output pins on an Arduino board by blinking an LED at a fixed interval.
 
-## Objective
-- Learn how to configure Arduino digital pins as OUTPUT
-- Understand the structure of an Arduino sketch (`setup()` and `loop()`)
-- Practice basic timing using the `delay()` function
 
 ## Components Used
 - Arduino Uno
@@ -18,7 +14,10 @@ This project demonstrates the basic use of digital output pins on an Arduino boa
 - 9V Battery Clip to DC Barrel Jack
   
 
-## Circuit Diagram
+## 🔌 Circuit
+Connect the LED (with resistor) to a digital pin and ground.  
+**Remember:** LED polarity matters — longer leg goes to the output pin. 
+
 ![Circuit Diagram](images/blinking_led_photo1.jpg)
 
 ## How It Works
