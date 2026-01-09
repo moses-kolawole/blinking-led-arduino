@@ -59,7 +59,7 @@ Below is the image showing the circuit connection:
 ![Here](images/blinking_led_photo1.jpg)
 
 Below is a demo video of the blinking LED:
-![Click Here For the Video](video/blinking_led_project_video.mp4)
+[Click Here For the Video](video/blinking_led_project_video.mp4)
 
 ## What This Project Taught Me
 This project helped me understand that a microcontroller can be used to control how electronic systems work.
