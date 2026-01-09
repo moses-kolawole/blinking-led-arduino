@@ -35,20 +35,20 @@ The resistor must always be in the circuit. If it is removed, the LED can burn o
 In this setup, the Arduino is no longer controlling the blinking. The LED will stay ON continuously.
 
 ## How It Works
--- The LED pin is set as OUTPUT.
--- The Arduino turns the LED ON by setting the pin to HIGH.
--- A delay is added to keep the LED ON for some time.
--- The LED is then turned OFF by setting the pin to LOW.
--- Another delay is added.
--- This process repeats again and again, which causes the LED to blink.
+- The LED pin is set as OUTPUT.
+- The Arduino turns the LED ON by setting the pin to HIGH.
+- A delay is added to keep the LED ON for some time.
+- The LED is then turned OFF by setting the pin to LOW.
+- Anoother delay is added.
+- This process repeats again and again, which causes the LED to blink.
 
 ## Code Structure
 - In the setup() function, I only set the LED pin as OUTPUT.
 - In the loop() function, the code:
-   -- Turns the LED HIGH
-   -- Delays
-   -- Turns the LED LOW
-   -- Delays again
+   - Turns the LED HIGH
+   - Delays
+   - Turns the LED LOW
+   - Delays again
 
 ## Challenges Faced
 One challenge I faced during this project was during the connection.
@@ -56,7 +56,7 @@ Some of my LEDs burned out because I didn’t connect the resistor properly at f
 
 ## Results & Behaviour
 Below is the image showing the circuit connection:
-[project image](images/blinking_led_photo1.jpg)
+(images/blinking_led_photo1.jpg)
 
 Below is a demo video of the blinking LED:
 [Click Here For the Video](video/blinking_led_project_video.mp4)
