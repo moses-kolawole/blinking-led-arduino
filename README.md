@@ -1,6 +1,6 @@
-#Blinking LED – Arduino Project
+# Blinking LED – Arduino Project
 
-##Overview
+## Overview
 
 This project is about blinking an LED using an Arduino Uno.
 It helped me understand how Arduino digital pins work and how a microcontroller can control simple electronic components using timing.
